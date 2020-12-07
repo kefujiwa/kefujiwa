@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![kefujiwa's 42 stats](https://badge42.herokuapp.com/api/stats/kefujiwa?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
+
 <!--
 **kefujiwa/kefujiwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
